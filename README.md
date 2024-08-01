@@ -1,8 +1,26 @@
-### Hi there 👋  
+### Hello there 👋  
 My name is Mikhail and I'm a Software Engineer and a student
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frozrt&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozrt&layout=compact&theme=gotham&custom_title=Statistics) 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.full_name = "Mikhail Kim"
+        self.role = "Software Engineer"
+        self.language_spoken = ["ru_RU", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+if __name__ == '__main__':
+    me = SoftwareEngineer()
+    me.say_hi()
+```
+
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -33,3 +51,7 @@ Get in touch with me through the attached links:
 <a href="mailto:kimisharik@gmail.com">
   <img alt="Mikhail's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asianwhitedude&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asianwhitedude&layout=compact&theme=gotham&custom_title=Statistics) 
