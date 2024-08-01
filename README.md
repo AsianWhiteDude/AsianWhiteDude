@@ -1,5 +1,5 @@
-### Hello there 👋  
-My name is Mikhail and I'm a Software Engineer and a student
+### Hello there 👋
+My name is Mikhail and I'm a Software Engineer and a student 👨‍💻
 
 ```python
 #!/usr/bin/python
