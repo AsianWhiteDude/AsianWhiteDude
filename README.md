@@ -42,7 +42,7 @@ if __name__ == '__main__':
 Are you interested in collaboration? I'm up to any inspiring projects.  
 Get in touch with me through the attached links:  
 
-<a href="https://www.linkedin.com/in/mikhail-kim-849211321/">
+<a href="https://www.linkedin.com/in/AsianWhiteDude/">
   <img alt="Mikhail's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/test3515">
