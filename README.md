@@ -38,6 +38,7 @@ if __name__ == '__main__':
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![cicd](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 Are you interested in collaboration? I'm up to any inspiring projects.  
 Get in touch with me through the attached links:  
